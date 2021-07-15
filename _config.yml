@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
 title: Dexforce 3D Camera
-description: A low cost, full featured open source, industrial 3D camera
+description: A low cost, full featured open source, industrial 3D camera.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 feedback_email: wudi@dexforce.com
+github:
+  sourcecode_url: https://github.com/dexforce/DF8_3D_Camera
+  docs_url: https://github.com/dexforce/DF8_3D_Camera/blob/main/README.md
