@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](images/DF8.jpg)
+![DF8](images/DF8.jpg)
 
 > This project is an Open Source industrial 3D camera. The goal at current stage is to create a low cost 3D camera with capability of current generation industrial cameras. It is also a computer with GPU computing capability, in which can run 3D point cloud recognition algorithms and robotic arm control programs. This camera can be used in scenarios such as bin-picking, assembly, 3D inspection and many others. 
 > 
@@ -20,8 +20,8 @@ layout: default
   
 <br/><br/><br/>
 
-<img src="images/show_1_1.jpg" width="50%">
-<img src="images/show_1_2.jpg" width="50%">
+<img src="images/show_1_1.png" width="50%">
+<img src="images/show_1_2.png" width="50%">
 The thickness of feeler gauge from far to near is 1mm / 0.5mm / 0.2mm / 0.1mm / 0.05mm
 
 Code: <https://github.com/dexforce/DF8_3D_Camera>  
