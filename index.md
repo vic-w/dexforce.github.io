@@ -20,5 +20,9 @@ layout: default
   
 <br/><br/><br/>
 
+<img src="images/show_1_1.jpg" width="50%">
+<img src="images/show_1_2.jpg" width="50%">
+The thickness of feeler gauge from far to near is 1mm / 0.5mm / 0.2mm / 0.1mm / 0.05mm
+
 Code: <https://github.com/dexforce/DF8_3D_Camera>  
 Email: <vic-wu@foxmail.com>
