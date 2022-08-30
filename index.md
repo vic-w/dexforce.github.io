@@ -83,7 +83,6 @@
 
 
 
-
-
 Code: <https://github.com/Open3DV/OpenCam3D>  
 Email: <info@dexforce.com>
+
