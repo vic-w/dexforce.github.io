@@ -13,8 +13,8 @@
 | High Scan Quality  | Open Hardware | Easy-To-Start |
 | ----- | ----- | ------- | 
 | <div style="width: 150pt"> The camera is designed for industrial use. High accuracy of 50 micron or better is achievable </div> |  <div style="width: 150pt"> All of our developement is open-source, that anyone can use and improve it. </div>  | <div style="width: 150pt"> A growing number of detailed tutorials will help getting started. </div> |
-| ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud01@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud02@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud03@2x.png) |
-| ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud04@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud05@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/tree/master/images/products_sense_pic_pointcloud06@2x.png) |
+| ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud01@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud02@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud03@2x.png) |
+| ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud04@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud05@2x.png) | ![](https://github.com/Open3DV/OpenCam3D/raw/master/images/products_sense_pic_pointcloud06@2x.png) |
 
  <table>
     <tr>
