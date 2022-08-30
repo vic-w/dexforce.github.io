@@ -1,7 +1,7 @@
 # XEMA
  A low cost, full featured open source, industrial 3D camera.
 
-![DFX800](https://github.com/Open3DV/OpenCam3D/blob/master/images/DFX804.jpg)
+![DFX800]([https://github.com/Open3DV/OpenCam3D/blob/master/images/DFX804.jpg](https://raw.githubusercontent.com/Open3DV/OpenCam3D/master/images/DFX804.jpg))
 
 > This project is an Open Source industrial 3D camera. The goal at current stage is to create a low cost 3D camera with capability of current generation industrial cameras. It is also a computer with GPU computing capability, which makes running 3D point cloud recognition algorithms and robotic arm control programs possible. This camera can be used in scenarios such as bin-picking, assembly, 3D inspection and many others. 
 > 
