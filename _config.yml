@@ -5,5 +5,5 @@ google_analytics:
 theme: jekyll-theme-cayman
 feedback_email: wudi@dexforce.com
 github:
-  sourcecode_url: https://github.com/dexforce/DF8_3D_Camera
-  docs_url: https://github.com/dexforce/DF8_3D_Camera/blob/main/README.md
+  sourcecode_url: https://github.com/open3dv/OpenCam3D
+  docs_url: https://github.com/Open3DV/OpenCam3D/tree/master/docs
